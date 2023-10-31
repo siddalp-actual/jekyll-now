@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: siddalp-actual/jekyll-now
+  github: siddalp-actual/
   instagram:
   linkedin:
   pinterest:
@@ -48,6 +48,7 @@ url:
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 # baseurl: "/jekyll-now"
+baseurl: "/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
