@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Typsetting Gregorian Chant
+title: Typesetting Gregorian Chant
 date: 2023/11/06
 ---
 
-For a couple of years now I have been using `Lilypond` to engrave sheet music for performance purposes, a nice side effect is that `Lilypond` also produces a midi file, which I can play through a synthesizer for practie purposes.  
+For a couple of years now I have been using `Lilypond` to engrave sheet music for performance purposes, a nice side effect is that `Lilypond` also produces a midi file, which I can play through a synthesizer for practice purposes.  
 
 However, recently I needed to typeset some Gregorian chant, and while `Lilypond` has capability for this, I quickly ran into situations where the engraved stave was less readable than the original I was transcribing.
 
@@ -80,4 +80,4 @@ a(f)ma(h)rae(g) mor(h)ti(e) ne(dg) tra(gf/gh)das(egFE) nos(e.) (::)
 
 ```
 which renders to
-![plot](./MediaVita.jpg)
+![Example of typeset gregorian chant](/siddalp-actual/assets/MediaVita.jpg)
